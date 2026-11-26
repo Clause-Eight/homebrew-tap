@@ -1,7 +1,6 @@
 class Ato < Formula
   desc "Find EU personal data in code, fixtures and logs, confirmed by check digits"
   homepage "https://github.com/Clause-Eight/ato"
-  version "2.0.0"
   license "Apache-2.0"
 
   on_macos do
