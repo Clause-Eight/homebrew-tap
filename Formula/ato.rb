@@ -5,23 +5,23 @@ class Ato < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.0/ato_2.0.0_darwin_arm64.tar.gz"
-      sha256 "3eb2438b335e63f6f8d5b8c342edad8ad39926e802d3b1cb55dbf6e906ec53f8"
+      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.1/ato_2.0.1_darwin_arm64.tar.gz"
+      sha256 "c9a2916062526dffc23ee1c8e06494ddd63480fa07877e5c8ba7642b5f3ab957"
     end
     on_intel do
-      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.0/ato_2.0.0_darwin_amd64.tar.gz"
-      sha256 "d56eb098f58bfe58084a6fb6758505695841a09520fef780551d8d9c48987c22"
+      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.1/ato_2.0.1_darwin_amd64.tar.gz"
+      sha256 "78bbb8ae42f89e27f9615e81db8d34a95aaa26ae1eb8fe9fc89f117972417130"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.0/ato_2.0.0_linux_arm64.tar.gz"
-      sha256 "e8bcad1a985c31850cb79dcd1fe77cbf234f45cdae11035917213eb7cb7fb9ff"
+      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.1/ato_2.0.1_linux_arm64.tar.gz"
+      sha256 "abb19dd54f4034d7ced0d22ac76dd4228a46ef585e39a571da3fa22a55782786"
     end
     on_intel do
-      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.0/ato_2.0.0_linux_amd64.tar.gz"
-      sha256 "5eb3c1c590a2b6714935caff74262a33d37b0764aaec79d283618077669e1b87"
+      url "https://github.com/Clause-Eight/ato/releases/download/v2.0.1/ato_2.0.1_linux_amd64.tar.gz"
+      sha256 "90ccfda7a38ac1b77a3cb797d48176ab3846e3fa5d2ee11521b7596c52e333ef"
     end
   end
 
